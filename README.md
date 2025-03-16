@@ -1,17 +1,36 @@
+# 📖 Storyboard Tool
 
-# my-storyboard-tool
-A simple and intuitive Storyboard Tool built with React and Tailwind CSS. It allows users to create, preview, and reorder story points seamlessly with a clean and responsive UI.
+A simple and interactive web-based storyboard tool for writers to add, reorder, delete, and preview story points in real time.
 
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+✅ Add story points easily  
+✅ Reorder story points via drag-and-drop  
+✅ Delete story points effortlessly  
+✅ Live preview of the story points  
+✅ Clean and responsive UI with Tailwind CSS  
+✅ Plays background audio on user interaction  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+**Frontend:**  
+- React.js (Vite)  
+- Tailwind CSS  
 
-## Expanding the ESLint configuration
+**Audio:**  
+- HTML5 Audio 
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
- 9d45ac6 (Initial commit: Added storyboard tool)
+---
+
+## 📸 Screenshots
+### 🎯 Main Interface  
+<img src="https://your-image-url.com" alt="Storyboard Tool UI" width="600px">
+
+---
+
+## 🏗️ Installation & Setup
+1. **Clone the repository**  
+```bash
+git clone https://github.com/rahaneom/my-storyboard-tool.git
